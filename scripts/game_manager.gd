@@ -8,7 +8,6 @@ const TOTAL_COINS = 9
 func add_point():
 	score += 1
 	update_score_text()
-	print(score)
 	
 func update_score_text():
 	var remaining = TOTAL_COINS - score
