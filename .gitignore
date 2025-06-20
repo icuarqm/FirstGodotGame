@@ -1,3 +1,12 @@
 # Godot 4+ specific ignores
 .godot/
-/android/
+.android/
+.editorconfig
+/export_presets.cfg
+*.import
+*.zip
+*.pck
+*.apk
+*.exe
+*.DS_Store
+Thumbs.db
